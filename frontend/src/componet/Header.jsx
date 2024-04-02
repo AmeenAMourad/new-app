@@ -6,7 +6,7 @@ const Header = () => {
     <header>
         <Navbar bg="dark" variant='dark' expand="lg" collapseOnSelect >
             <Container>
-                <Navbar.Brand href='/'>Proshop1fasd</Navbar.Brand>
+                <Navbar.Brand href='/'>Pro</Navbar.Brand>
             </Container>
         </Navbar>
     </header>
